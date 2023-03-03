@@ -22,7 +22,7 @@ var colors = {
     "3": "#ff9900",
     "2": "#6aa84f",
     "1": "#ffff00",
-    "0": "dark gray"
+    "0": "#666666"
 };
 
 // Set up plot
