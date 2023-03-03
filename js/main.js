@@ -6,7 +6,7 @@ var SELECT_WIDTH = 8;
 var NORMAL_OPACITY = 0.1;
 var SELECT_OPACITY = 1;
 var CHART_WIDTH = 500;
-var CUTOFF = 11; // Update cutoff
+var CUTOFF = 5; // Update cutoff
 
 var height = 390;
 var padding = 40;
@@ -18,11 +18,11 @@ var totalData;
 var dFirst;
 
 var colors = {
-    "A": "#fb9fcb",
-    "B": "#ff951c",
-    "C": "#fff200",
-    "D": "#00a500",
-    "F": "gray"
+    "4": "#8e7cc3",
+    "3": "#ff9900",
+    "2": "#6aa84f",
+    "1": "#ffff00",
+    "0": "bdbdbd"
 };
 
 // Set up plot
