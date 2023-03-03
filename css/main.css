@@ -32,14 +32,13 @@ h1 {
   height: 160px;
   box-sizing: border-box;
   position: relative;
-  top: -1px;
+  top: -2px;
   text-align: center;
   padding-top: 60px;
   margin-bottom: 20px; }
 
   #banner img {
-    width: auto;
-    height: auto; }
+    max-height: 120px; }
 
 #mainWrapper {
   padding: 0 40px;
