@@ -29,15 +29,15 @@ h1 {
 /* Top */
 #banner {
   background: #0564e9 url("../img/banner.png") center center;
-  height: 200px;
+  height: 160px;
   box-sizing: border-box;
   position: relative;
-  top: -25px;
+  top: -1px;
   text-align: center;
   padding-top: 60px;
-  margin-bottom: 30px; }
+  margin-bottom: 20px; }
   #banner img {
-    max-height: 120px; }
+    max-height: 100px; }
 
 #mainWrapper {
   padding: 0 40px;
@@ -155,7 +155,7 @@ path.ranking {
     cursor: pointer; }
     #top #topBody tr:hover {
       background: #e6e6e6 !important; }
-    #top #topBody tr.top nine {
+    #top #topBody tr.nine {
       background: #eee; }
   #top td {
     padding: 5px 15px;
