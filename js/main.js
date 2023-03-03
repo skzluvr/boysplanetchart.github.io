@@ -137,7 +137,7 @@ function showChart(key, asc) {
             if (d.isEliminated) {
                 return "top";
             } else {
-                return "top wanna-members";
+                return "top nine";
             }
         })
         .html(function(d) {

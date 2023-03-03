@@ -155,7 +155,7 @@ path.ranking {
     cursor: pointer; }
     #top #topBody tr:hover {
       background: #e6e6e6 !important; }
-    #top #topBody tr.wanna-members {
+    #top #topBody tr.top nine {
       background: #eee; }
   #top td {
     padding: 5px 15px;
