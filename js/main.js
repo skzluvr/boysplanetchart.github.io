@@ -6,7 +6,7 @@ var SELECT_WIDTH = 8;
 var NORMAL_OPACITY = 0.1;
 var SELECT_OPACITY = 1;
 var CHART_WIDTH = 500;
-var CUTOFF = 5; // Update cutoff
+var CUTOFF = 52; // Update cutoff
 
 var height = 390;
 var padding = 40;
