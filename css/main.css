@@ -155,7 +155,7 @@ path.ranking {
   #top #topBody tr {
     cursor: pointer; }
     #top #topBody tr:hover {
-      background: #f7f7f7 !important; }
+      background: #eeeeee !important; }
     #top #topBody tr.nine {
       background: #ebd4ff95; }
     #top #topBody tr.current {
