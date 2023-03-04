@@ -136,8 +136,10 @@ function showChart(key, asc) {
         .attr("class", function(d) {
             if (d.isEliminated) {
                 return "top";
-            } else {
+            } else if (d.latestRank<10) {                
                 return "top nine";
+            } else {
+                return "top current"
             }
         })
         .html(function(d) {
