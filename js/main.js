@@ -21,8 +21,8 @@ var colors = {
     "4": "#7f6bbb",
     "3": "#ff9c33",
     "2": "#7eb35d",
-    "1": "#ffea00",
-    "0": "black"
+    "1": "#fcf596 ",
+    "0": "4c4c4c"
 };
 
 // Set up plot
