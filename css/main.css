@@ -157,9 +157,9 @@ path.ranking {
     #top #topBody tr:hover {
       background: #e6e6e6 !important; }
     #top #topBody tr.nine {
-      background: #eee; }
+      background: #e5c8ff; }
     #top #topBody tr.current {
-      background: #ff1d1d;
+      background: #eee;
     }
   #top td {
     padding: 5px 15px;
