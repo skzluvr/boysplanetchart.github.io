@@ -318,7 +318,7 @@ function getRankInfo(d) {
     if (d.isEliminated) {
         return "Eliminated in Episode " + episodes[d.ranking.length - 1];
     }
-    return "Top 9, Rank " + d.currentRank + " " + displayRankChange(d);
+    return "Current Contestant, Rank " + d.currentRank + " " + displayRankChange(d);
 }
 
 function updateNotes(d) {
